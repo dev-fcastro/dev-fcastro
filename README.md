@@ -7,16 +7,6 @@
 
 ---
 
-## 🏗️ Liderazgo Técnico en [Synset Solutions](https://synsetsolutions.com)
-
-Como **CTO**, dirijo el desarrollo de ecosistemas digitales que optimizan la realidad operativa de las empresas:
-
-*   **Salas de Control & Dashboards**: Visualización de datos críticos en tiempo real.
-*   **Asistentes Inteligentes**: Automatización de atención y procesos 24/7.
-*   **Arquitectura de Crecimiento**: Sistemas diseñados para escalar desde una startup hasta operaciones nacionales sin fricción.
-
----
-
 ## 🛠️ Strategic Stack
 
 Asegurando estabilidad y rendimiento a través de tecnologías líderes:
