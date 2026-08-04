@@ -1,12 +1,3 @@
-<a href="https://github.com/dev-fcastro/dev-fcastro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-fcastro/dev-fcastro/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/dev-fcastro/dev-fcastro/main/light.svg">
-  </picture>
-</a>
-
----
-
 ## 🛠️ Strategic Stack
 
 Asegurando estabilidad y rendimiento a través de tecnologías líderes:
