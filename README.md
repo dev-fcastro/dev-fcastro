@@ -36,6 +36,7 @@ Asegurando estabilidad y rendimiento a través de tecnologías líderes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-daniel-castro-borrome-1235a9276)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odimsom)
+[![GitHub](https://img.shields.io/badge/Website-fcastro.site-ff4d00)](https://fcastro.site)
 
 > [!TIP]
 > **Disponible para Consultoría**: Ayudo a empresas a escalar sus arquitecturas de software y automatizar sus operaciones críticas.
